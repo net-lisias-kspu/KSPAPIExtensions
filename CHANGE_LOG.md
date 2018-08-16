@@ -1,5 +1,7 @@
 # KSP API Extensions :: Change Log
 
+* 2015-0427: 1.7.3 (Swamp-Ig) for KSP 1.0
+	+ Fixed for 1.0, thanks to @taniwha-qf  (as usual)
 * 2014-1216: 1.7.2 (Swamp-Ig) for KSP 0.90
 	+ Recompiled for KSP 0.90
 * 2014-1009: 1.7.1 (Swamp-Ig) for KSP 0.25
