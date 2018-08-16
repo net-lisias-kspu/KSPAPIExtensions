@@ -1,5 +1,8 @@
 # KSP API Extensions :: Change Log
 
+* 2014-0720: 1.6.0 (Swamp-Ig) for KSP 0.24
+	+ fix by taniwha to part resource tweaker code for .24
+	+ update CompatibilityChecker for .24 and to latest code from Majiir
 * 2014-0612: 1.5.1 (Swamp-Ig) for KSP 0.23.5
 	+ Bugfix #6. Needed for some things to work with Alt-Click in VAB.
 * 2014-0607: 1.5.0 (Swamp-Ig) for KSP 0.23.5
