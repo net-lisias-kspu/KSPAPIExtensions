@@ -1,5 +1,7 @@
 # KSP API Extensions :: Change Log
 
+* 2014-0612: 1.5.1 (Swamp-Ig) for KSP 0.23.5
+	+ Bugfix #6. Needed for some things to work with Alt-Click in VAB.
 * 2014-0607: 1.5.0 (Swamp-Ig) for KSP 0.23.5
 	+ Added ConfigNodeUtils - adds some extra methods to ConfigNodes, and ParseUtils for parsing various types.
 	+ Thanks for stupid_chris for the submission.
