@@ -1,5 +1,7 @@
 # KSP API Extensions :: Change Log
 
+* 2014-1009: 1.7.1 (Swamp-Ig) for KSP 0.25
+	+ Compiled for KSP 0.25
 * 2014-0802: 1.7.0 (Swamp-Ig) for KSP 0.24.2
 	+ Fix multiple version handling.
 	+ Note that for this to work properly, all mods using KSPAPIExtensions need to be updated. After that, they should be free to drift again.
