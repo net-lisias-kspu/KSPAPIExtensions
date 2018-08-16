@@ -1,5 +1,8 @@
 # KSP API Extensions :: Change Log
 
+* 2014-0607: 1.5.0 (Swamp-Ig) for KSP 0.23.5
+	+ Added ConfigNodeUtils - adds some extra methods to ConfigNodes, and ParseUtils for parsing various types.
+	+ Thanks for stupid_chris for the submission.
 * 2014-0601: 1.4.5 (Swamp-Ig) for KSP 0.23.5
 	+ Small improvement to RegisterOnUpdateEditor
 * 2014-0521: 1.4.4 (Swamp-Ig) for KSP 0.23.5
