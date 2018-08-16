@@ -1,5 +1,7 @@
 # KSP API Extensions :: Change Log
 
+* 2014-0517: 1.4.2 (Swamp-Ig) for KSP 0.23.5
+	+ Fixed some issues with multiple copies of the same dll being present.
 * 2014-0514: 1.4.1 (Swamp-Ig) for KSP 0.23.5
 	+ Multiple loads of the exact same KSPAddon when several copies of the same version dll present
 * 2014-0503: 1.4.0 (Swamp-Ig) for KSP 0.23.5
