@@ -1,5 +1,7 @@
 # KSP API Extensions :: Change Log
 
+* 2014-0725: 1.6.2 (Swamp-Ig) for KSP 0.24.1
+	+ Update checker for .24.1
 * 2014-0724: 1.6.1 (Swamp-Ig) for KSP 0.24
 	+ More fixes from taniwha:
 		- Avoid NRE in OutputLocksModified
