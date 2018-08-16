@@ -1,5 +1,10 @@
 # KSP API Extensions :: Change Log
 
+* 2014-0724: 1.6.1 (Swamp-Ig) for KSP 0.24
+	+ More fixes from taniwha:
+		- Avoid NRE in OutputLocksModified
+		- Avoid a divide-by-zero
+		- Avoid recursive value change events.
 * 2014-0720: 1.6.0 (Swamp-Ig) for KSP 0.24
 	+ fix by taniwha to part resource tweaker code for .24
 	+ update CompatibilityChecker for .24 and to latest code from Majiir
