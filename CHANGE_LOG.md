@@ -1,5 +1,8 @@
 # KSP API Extensions :: Change Log
 
+* 2014-0518: 1.4.3 (Swamp-Ig) for KSP 0.23.5
+	+ New messages for root part adding / removing
+	+ FormatMass in MathUtils
 * 2014-0517: 1.4.2 (Swamp-Ig) for KSP 0.23.5
 	+ Fixed some issues with multiple copies of the same dll being present.
 * 2014-0514: 1.4.1 (Swamp-Ig) for KSP 0.23.5
