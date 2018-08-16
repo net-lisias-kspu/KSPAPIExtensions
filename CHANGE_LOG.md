@@ -1,5 +1,7 @@
 # KSP API Extensions :: Change Log
 
+* 2014-0601: 1.4.5 (Swamp-Ig) for KSP 0.23.5
+	+ Small improvement to RegisterOnUpdateEditor
 * 2014-0521: 1.4.4 (Swamp-Ig) for KSP 0.23.5
 	+ Bugfixes and improvements
 * 2014-0518: 1.4.3 (Swamp-Ig) for KSP 0.23.5
