@@ -1,6 +1,8 @@
 # KSP API Extensions/L :: Change Log
 
-* 2019-0101: 2.1.0.7 (Lisias) for KSP >= 1.2 PRE-RELEASE
+* 2019-0125: 2.1.0.8 (Lisias) for KSP >= 1.2 PRE-RELEASE
+	+ Preventing concurrent processes from playing havoc on the KSP/Unity logging.
+		- No more entries being written in the middle of the previous ones! :) 	
 	+ Better Listing Files support.
 	+ Some more syntactic sugar
 		- Adding generics syntax to ConfigNode's GetValue, making easier to port code from XML (PluginConfiguration) to CFG (ConfigNode) and vice versa
@@ -9,6 +11,8 @@
 		- No impact to the user base, I'm the only client for this stunt! :D
 	+ Removed Max KSP version check.
 	+ Fixed a glitch that prevented debug messages from being suppressed.
+* 2019-0101: 2.1.0.7 (Lisias) for KSP >= 1.2 PRE-RELEASE
+	+ **DITCHED** (again²! =P)
 * 2018-1231: 2.1.0.6 (Lisias) for KSP >= 1.2 PRE-RELEASE
 	+ **DITCHED** (again! =P)
 * 2018-1228: 2.1.0.5 (Lisias) for KSP >= 1.2 PRE-RELEASE
@@ -91,3 +95,4 @@
 	+ Released with [ProceduralParts v0.9.4](https://github.com/Swamp-Ig/ProceduralParts/releases/tag/v0.9.4)
 * 2014-0421: 1.3.1 (Swamp-Ig) for KSP 0.23.5
 	+ Released with v0.9.2 of ProceduralParts.
+
